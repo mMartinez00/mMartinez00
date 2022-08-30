@@ -2,7 +2,7 @@
 
 - 👨🏽‍🔧 I’m currently working on a **Personal Portfolio**
 - 👨🏽‍💻 I’m currently learning **HTML**, **CSS** & **JavaScript**
-- 📫 How to reach me **martinez.mauricio.0093@gmail.com**
+- 📫 How to reach me **mmartinez92293@gmail.com**
 
 <!---
 mMartinez00/mMartinez00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
