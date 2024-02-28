@@ -1,6 +1,4 @@
 # Hello 👋, I am Mauricio
-
-- 🌱 I’m currently learning **ReactJS**
 - 📫 How to reach me **martinez.mauricio.0093@gmail.com**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmartinez00&layout=compact)](https://github.com/mmartinez00)
